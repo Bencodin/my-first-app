@@ -31,3 +31,7 @@
 /home/ben/Documents/BlueTeam/CI_CD_projetct/my-first-app/obj/Debug/net9.0/my-first-app.pdb
 /home/ben/Documents/BlueTeam/CI_CD_projetct/my-first-app/obj/Debug/net9.0/my-first-app.genruntimeconfig.cache
 /home/ben/Documents/BlueTeam/CI_CD_projetct/my-first-app/obj/Debug/net9.0/ref/my-first-app.dll
+/home/ben/Documents/BlueTeam/CI_CD_projetct/my-first-app/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/ben/Documents/BlueTeam/CI_CD_projetct/my-first-app/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ben/Documents/BlueTeam/CI_CD_projetct/my-first-app/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/ben/Documents/BlueTeam/CI_CD_projetct/my-first-app/obj/Debug/net9.0/my-first-app.sourcelink.json
